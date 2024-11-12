@@ -2,6 +2,11 @@
 
 An AI-powered motivation and guidance application built with Next.js and Claude AI.
 
+![video-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bbfc039c-17ed-4027-b8e0-c14376c10d71)
+
+![clean-response](https://github.com/user-attachments/assets/78b854a6-a633-4cf6-9284-94ed05744171)
+
+
 ## Features
 
 - AI-powered motivational responses
